@@ -37,4 +37,4 @@ This project performs object recognition using image processing techniques. The 
     This will read the input image, process it to recognize objects, and display the result with bounding boxes and labels.
 
 ## Contact
-For any queries or issues, please contact [Sharan M](mailto:msharan.hnp@gmail.com).
+For any queries or issues, please contact [Sagar B J](mailto:sagarbj001@gmail.com).
