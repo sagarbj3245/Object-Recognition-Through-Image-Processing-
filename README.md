@@ -15,7 +15,7 @@ This project performs object recognition using image processing techniques. The 
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://https://github.com/sagarbj3245/Object-Recognition-Through-Image-Processing.git
+    git clone https://github.com/sagarbj3245/Object-Recognition-Through-Image-Processing.git
     ```
 2. **Navigate to the project directory:**
     ```bash
