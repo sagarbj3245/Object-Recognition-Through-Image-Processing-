@@ -1,4 +1,4 @@
-# Object Recognition through Image Processing
+# Object Recognition through Image Processing using OpenCV
 
 ## Project Domain
 **Computer Graphics**
